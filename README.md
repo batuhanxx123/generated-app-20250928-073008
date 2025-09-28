@@ -1,6 +1,6 @@
 # VaultNote - Secure Personal Notepad
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/batuhanxx123/generated-app-20250928-072937)
 
 VaultNote is a minimalist, secure, and private notepad application built on Cloudflare's edge network. It provides a single, full-screen text editor for users to write and save their notes. Access to the notepad is protected by a single password. The application features a clean, focused, and visually stunning interface with a strong emphasis on user experience and simplicity. All notes are tied to the password, ensuring privacy. If the password is forgotten, the notes are irrecoverable, providing a true sense of security through obscurity.
 
@@ -80,7 +80,7 @@ This project is configured for easy deployment to Cloudflare's global network.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/batuhanxx123/generated-app-20250928-072937)
 
 ## Architecture Overview
 
